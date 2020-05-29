@@ -7,6 +7,7 @@ import logoHtml from "../../assets/img/Html_picture.png";
 import logojs from "../../assets/img/js_logo.png";
 import logobootstrap from "../../assets/img/bootstrap_logo.png";
 import logosql from "../../assets/img/sql_logo.png";
+import { Link } from "react-router-dom";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -43,6 +44,9 @@ const cv = () => {
                 <div className="cv-content-in">Wojciech</div>
                 <div className="cv-content-in">Waleszczyk</div>
                 <div className="cv-content-in">wojtekmaj2@o2.pl</div>
+                <div className="cv-content-in">
+                  <a href="https://github.com/wiru123321">Link to Github</a>
+                </div>
               </div>
             </div>
             <div className="col-md-4 col-lg-2 cv-date backgroundContent1">
@@ -211,7 +215,7 @@ const cv = () => {
                   <FontAwesomeIcon icon={faCheckCircle} />
                   <FontAwesomeIcon icon={faCheckCircle} />
                   <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faCheckCircle} />
+                  <FontAwesomeIcon icon={faTimesCircle} />
                   <FontAwesomeIcon icon={faTimesCircle} />
                 </div>
               </div>

@@ -14,25 +14,22 @@ const mainPage = () => {
             <div className="intro-lead-inn">Future Web developer</div>
           </div>
         </div>
+
         <div className="schalfbackground">
-          <div className="menuMain col-lg-12 first-content">
-            <div className="intro-text">
-              <p>
-                <Link to="/cv" className="intro-lead-in-contain">
-                  RESUME
-                </Link>
-              </p>
+          <Link to="/cv" className="intro-lead-in-contain">
+            <div className="menuMain col-lg-12 first-content">
+              <div className="intro-text">
+                <p>RESUME</p>
+              </div>
             </div>
-          </div>
-          <div className="menuMain col-lg-12 second-content">
-            <div className="intro-text">
-              <p>
-                <Link to="/about" className="intro-lead-in-contain">
-                  ABOUT ME
-                </Link>
-              </p>
+          </Link>
+          <Link to="/about" className="intro-lead-in-contain">
+            <div className="menuMain col-lg-12 second-content">
+              <div className="intro-text">
+                <p>ABOUT ME</p>
+              </div>
             </div>
-          </div>
+          </Link>
         </div>
         <div className="raw5">
           <div

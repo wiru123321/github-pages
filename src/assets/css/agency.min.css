@@ -18,6 +18,7 @@ a:hover {
 }
 .page-section {
   padding: 0;
+  margin: 0;
 }
 
 .page-section .cv-date {
@@ -39,10 +40,14 @@ a:hover {
   text-align: center;
 }
 .cv-content-in {
-  font-size: 1.5vw;
+  font-size: 1.3vw;
   color: white;
   line-height: 50px;
   font-family: "Chelsea Market", cursive;
+  width: 90%;
+  padding: 0;
+  margin: 0;
+  margin: auto;
 }
 .cv-content-in-icon {
   font-size: 10vw;
@@ -61,7 +66,7 @@ a:hover {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  height: 94vh;
+  height: 95.8vh;
   width: 100vw;
   float: left;
   z-index: -1;
@@ -92,7 +97,7 @@ a:hover {
   position: absolute;
   top: 50%;
   transform: translateY(-60%);
-  width: 100%;
+  width: 96%;
 }
 .raw2 {
   height: 4%;
@@ -100,7 +105,7 @@ a:hover {
 .raw3 {
   height: 2%;
 }
-@media (max-width: 998px) {
+@media (max-width: 991px) {
   .cv-content-in-icon {
     font-size: 8vw;
   }
@@ -113,7 +118,18 @@ a:hover {
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
-    height: 40vh;
+    height: 55vh;
+    width: 100%;
+    float: left;
+    z-index: 0;
+  }
+  .page-section .backgroundContent2 {
+    background-image: url(../img/Background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    height: 95.8vh;
     width: 100%;
     float: left;
     z-index: 0;
@@ -124,7 +140,7 @@ a:hover {
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
-    height: 40vh;
+    height: 55vh;
     width: 100%;
     float: left;
     z-index: -1;
@@ -148,6 +164,11 @@ a:hover {
   }
   .cv-content-in-about {
     font-size: 5vw;
+    margin: auto;
+  }
+  .cv-content-in-about-2 {
+    font-size: 3.2vw;
+    line-height: 30px;
   }
   .cv-content-in-p {
     font-size: 7vw;
@@ -162,7 +183,18 @@ a:hover {
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
-    height: 50vh;
+    height: 60vh;
+    width: 100%;
+    float: left;
+    z-index: 0;
+  }
+  .page-section .backgroundContent2 {
+    background-image: url(../img/Background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    height: 99.8vh;
     width: 100%;
     float: left;
     z-index: 0;
@@ -173,7 +205,7 @@ a:hover {
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
-    height: 50vh;
+    height: 60vh;
     width: 100%;
     float: left;
     z-index: -1;
@@ -188,6 +220,9 @@ a:hover {
   .cv-content-in-img .image {
     width: 70vw;
     height: 25vh;
+  }
+  .menuMain p {
+    margin-top: 50%;
   }
 }
 ::-moz-selection {
