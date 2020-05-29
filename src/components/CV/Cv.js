@@ -8,7 +8,7 @@ import logojs from "../../assets/img/js_logo.png";
 import logobootstrap from "../../assets/img/bootstrap_logo.png";
 import logosql from "../../assets/img/sql_logo.png";
 
-import { FontAwesomeIcon } from "../../assets/@fortawesome/react-fontawesome";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faCheckCircle,
   faTimesCircle,
@@ -16,8 +16,8 @@ import {
   faBriefcase,
   faGlobe,
   faSmileBeam,
-} from "../../assets/@fortawesome/free-solid-svg-icons";
-import "../../assets/@fortawesome/fontawesome-svg-core/styles.css";
+} from "@fortawesome/free-solid-svg-icons";
+import "@fortawesome/fontawesome-svg-core/styles.css";
 
 const cv = () => {
   return (

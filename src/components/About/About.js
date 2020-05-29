@@ -4,9 +4,9 @@ import {
   faBookReader,
   faBalanceScale,
   faAddressCard,
-} from "../../assets/@fortawesome/free-solid-svg-icons";
-import "../../assets/@fortawesome/fontawesome-svg-core/styles.css";
-import { FontAwesomeIcon } from "../../assets/@fortawesome/react-fontawesome";
+} from "@fortawesome/free-solid-svg-icons";
+import "@fortawesome/fontawesome-svg-core/styles.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const about = () => {
   return (
