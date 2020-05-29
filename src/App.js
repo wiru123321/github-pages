@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import "./App.css";
 import Cv from "./components/CV/Cv";
 import About from "./components/About/About";
@@ -8,13 +8,13 @@ import MainPage from "./components/Main/MainPage";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter basename="/github-pages/">
         <Switch>
-          <Route exact path="/" component={MainPage} />
           <Route path="/cv" component={Cv} />
           <Route path="/about" component={About} />
+          <Route path="/" component={MainPage} />
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
