@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "382b98cb8d9946526099e7dc0c564369",
+    "revision": "3063b7ce2ab78c88d029e19f7517092c",
     "url": "/github-pages/index.html"
   },
   {
-    "revision": "218bb832fc399c795066",
+    "revision": "439d3337eebefa59d490",
     "url": "/github-pages/static/css/2.02b1f3e9.chunk.css"
   },
   {
-    "revision": "2764228f2ecbc0379716",
-    "url": "/github-pages/static/css/main.7c411ef1.chunk.css"
+    "revision": "42d263039458c0b56c46",
+    "url": "/github-pages/static/css/main.3940c3a3.chunk.css"
   },
   {
-    "revision": "218bb832fc399c795066",
-    "url": "/github-pages/static/js/2.ba007d50.chunk.js"
+    "revision": "439d3337eebefa59d490",
+    "url": "/github-pages/static/js/2.6a37e89d.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/github-pages/static/js/2.ba007d50.chunk.js.LICENSE.txt"
+    "url": "/github-pages/static/js/2.6a37e89d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2764228f2ecbc0379716",
-    "url": "/github-pages/static/js/main.69769a50.chunk.js"
+    "revision": "42d263039458c0b56c46",
+    "url": "/github-pages/static/js/main.03605731.chunk.js"
   },
   {
     "revision": "6cd91464c701a4c64e41",
@@ -58,26 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d2a4e8d28a28b097550d2d06bbdc52dd",
     "url": "/github-pages/static/media/cv_image.d2a4e8d2.jpg"
-  },
-  {
-    "revision": "085d45510dc9c4b735862379856d0621",
-    "url": "/github-pages/static/media/fontello.085d4551.woff2"
-  },
-  {
-    "revision": "303888731d4db0ec0b963c054e7966e6",
-    "url": "/github-pages/static/media/fontello.30388873.woff"
-  },
-  {
-    "revision": "b8866657f9ba23fe8b26dd21701ce548",
-    "url": "/github-pages/static/media/fontello.b8866657.svg"
-  },
-  {
-    "revision": "bbf76208338a015549d0345c5df0d14f",
-    "url": "/github-pages/static/media/fontello.bbf76208.ttf"
-  },
-  {
-    "revision": "d7d7417dd4926b93de4ead7e305a62e4",
-    "url": "/github-pages/static/media/fontello.d7d7417d.eot"
   },
   {
     "revision": "354f4449b231736df0047bab6715501a",
