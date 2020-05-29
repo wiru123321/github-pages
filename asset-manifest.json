@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/github-pages/static/css/main.3940c3a3.chunk.css",
-    "main.js": "/github-pages/static/js/main.1ebb5e28.chunk.js",
-    "main.js.map": "/github-pages/static/js/main.1ebb5e28.chunk.js.map",
+    "main.css": "/github-pages/static/css/main.6e78443c.chunk.css",
+    "main.js": "/github-pages/static/js/main.84203d81.chunk.js",
+    "main.js.map": "/github-pages/static/js/main.84203d81.chunk.js.map",
     "runtime-main.js": "/github-pages/static/js/runtime-main.db2051b8.js",
     "runtime-main.js.map": "/github-pages/static/js/runtime-main.db2051b8.js.map",
-    "static/css/2.02b1f3e9.chunk.css": "/github-pages/static/css/2.02b1f3e9.chunk.css",
-    "static/js/2.6a37e89d.chunk.js": "/github-pages/static/js/2.6a37e89d.chunk.js",
-    "static/js/2.6a37e89d.chunk.js.map": "/github-pages/static/js/2.6a37e89d.chunk.js.map",
+    "static/js/2.3e006054.chunk.js": "/github-pages/static/js/2.3e006054.chunk.js",
+    "static/js/2.3e006054.chunk.js.map": "/github-pages/static/js/2.3e006054.chunk.js.map",
     "index.html": "/github-pages/index.html",
-    "precache-manifest.7e664dae2bc98121ea6c3d323179353f.js": "/github-pages/precache-manifest.7e664dae2bc98121ea6c3d323179353f.js",
+    "precache-manifest.0cb2b32859b3166663fa9372806b1eb8.js": "/github-pages/precache-manifest.0cb2b32859b3166663fa9372806b1eb8.js",
     "service-worker.js": "/github-pages/service-worker.js",
-    "static/css/2.02b1f3e9.chunk.css.map": "/github-pages/static/css/2.02b1f3e9.chunk.css.map",
-    "static/css/main.3940c3a3.chunk.css.map": "/github-pages/static/css/main.3940c3a3.chunk.css.map",
-    "static/js/2.6a37e89d.chunk.js.LICENSE.txt": "/github-pages/static/js/2.6a37e89d.chunk.js.LICENSE.txt",
+    "static/css/main.6e78443c.chunk.css.map": "/github-pages/static/css/main.6e78443c.chunk.css.map",
+    "static/js/2.3e006054.chunk.js.LICENSE.txt": "/github-pages/static/js/2.3e006054.chunk.js.LICENSE.txt",
     "static/media/agency.min.css": "/github-pages/static/media/cv_image.d2a4e8d2.jpg",
     "static/media/Html_picture.png": "/github-pages/static/media/Html_picture.2f809a20.png",
     "static/media/Profilowe_img_2.jpg": "/github-pages/static/media/Profilowe_img_2.9bfc1ba5.jpg",
@@ -25,9 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.db2051b8.js",
-    "static/css/2.02b1f3e9.chunk.css",
-    "static/js/2.6a37e89d.chunk.js",
-    "static/css/main.3940c3a3.chunk.css",
-    "static/js/main.1ebb5e28.chunk.js"
+    "static/js/2.3e006054.chunk.js",
+    "static/css/main.6e78443c.chunk.css",
+    "static/js/main.84203d81.chunk.js"
   ]
 }
