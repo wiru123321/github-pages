@@ -7,8 +7,8 @@ import logoHtml from "../../assets/img/Html_picture.png";
 import logojs from "../../assets/img/js_logo.png";
 import logobootstrap from "../../assets/img/bootstrap_logo.png";
 import logosql from "../../assets/img/sql_logo.png";
-import font from "../../css/fontello.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
+import { FontAwesomeIcon } from "../../assets/@fortawesome/react-fontawesome";
 import {
   faCheckCircle,
   faTimesCircle,
@@ -16,8 +16,8 @@ import {
   faBriefcase,
   faGlobe,
   faSmileBeam,
-} from "@fortawesome/free-solid-svg-icons";
-import "../../../node_modules/@fortawesome/fontawesome-svg-core/styles.css";
+} from "../../assets/@fortawesome/free-solid-svg-icons";
+import "../../assets/@fortawesome/fontawesome-svg-core/styles.css";
 
 const cv = () => {
   return (
@@ -31,6 +31,7 @@ const cv = () => {
                 src={logo}
                 className=" image"
                 style={{ boxShadow: "2px 2px", borderRadius: "50%" }}
+                alt="cv photo"
               />
             </div>
             <div className="col-md-4 col-lg-2 cv-date backgroundContent1">
@@ -105,7 +106,12 @@ const cv = () => {
             <div className="col-md-4 col-lg-2 cv-date backgroundContent1">
               <div className="cv-content">
                 <div className="cv-content-in-img cv-content-in">
-                  <img src={logoCss} className="image cv-img" width="100%" />
+                  <img
+                    src={logoCss}
+                    className="image cv-img"
+                    width="100%"
+                    alt="cv photo"
+                  />
                   <div className="cv-content">CSS 3</div>
                   <FontAwesomeIcon icon={faCheckCircle} />
                   <FontAwesomeIcon icon={faCheckCircle} />
@@ -123,6 +129,7 @@ const cv = () => {
                     className=" image cv-img"
                     width="110vw"
                     height="150vh"
+                    alt="cv photo"
                   />
                   <div className="cv-content">HTML 5</div>
                   <FontAwesomeIcon icon={faCheckCircle} />
@@ -141,6 +148,7 @@ const cv = () => {
                     className=" image cv-img"
                     width="110vw"
                     height="150vh"
+                    alt="cv photo"
                   />
                   <div className="cv-content">Java Script</div>
                   <FontAwesomeIcon icon={faCheckCircle} />
@@ -159,6 +167,7 @@ const cv = () => {
                     className=" image cv-img"
                     width="110vw"
                     height="150vh"
+                    alt="cv photo"
                   />
                   <div className="cv-content">React</div>
                   <FontAwesomeIcon icon={faCheckCircle} />
@@ -177,6 +186,7 @@ const cv = () => {
                     className=" image cv-img"
                     width="110%"
                     height="150vh"
+                    alt="cv photo"
                   />
                   <div className="cv-content">Bootstrap 4</div>
                   <FontAwesomeIcon icon={faCheckCircle} />
@@ -195,6 +205,7 @@ const cv = () => {
                     className=" image cv-img"
                     width="110vw"
                     height="150vh"
+                    alt="cv photo"
                   />
                   <div className="cv-content">GIT</div>
                   <FontAwesomeIcon icon={faCheckCircle} />
