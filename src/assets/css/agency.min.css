@@ -167,7 +167,8 @@ a:hover {
     margin: auto;
   }
   .cv-content-in-about-2 {
-    font-size: 3.2vw;
+    margin-top: 60px;
+    font-size: 3.5vw;
     line-height: 30px;
   }
   .cv-content-in-p {

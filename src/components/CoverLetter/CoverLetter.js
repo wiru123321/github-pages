@@ -15,24 +15,23 @@ const coverLetter = () => {
               <div className="cv-content project-content">
                 <div
                   className="cv-content-in cv-content-in-about cv-content-in-about-2"
-                  style={{ padding: "50px" }}
+                  style={{ padding: "20px" }}
                 >
                   <FontAwesomeIcon
                     icon={faBookOpen}
                     className="cv-content-in-icon"
                   />
-                  <br />I am looking for student internships that I have to
-                  complete during the holiday season, which is why I decided to
-                  apply for the position of programmer in your company, hoping
-                  that you will be looking for apprentices / trainees. Why do I
-                  think it's worth hiring me? I am positive about work and I
-                  want to develop all the time. I am open to new solutions,
-                  technologies and methods, which is why I will quickly adapt to
-                  a new workplace. For now, I haven't created any commercial
-                  projects, but I have two university projects created in
-                  programming teams simulating work in a programming company. I
-                  am happy to talk to you to tell you more about my projects and
-                  answer your questions.
+                  <br />I am looking for first job. I decided to apply for the
+                  position of web programmer in Your company, hoping that you
+                  will be looking for young students with passion for
+                  programming. Why do I think it's worth hiring me? I am
+                  positive about work and I want to develop all the time. I am
+                  open to new solutions, technologies and methods, which is why
+                  I will quickly adapt to a new workplace.This summer I went
+                  through 1.5 months of internship.During internship I made a
+                  project in which I was responsible for the frontend in team
+                  which consisted of 5 people.I will be happy to talk to you to
+                  tell you more about my projects and answer your questions.
                   <br /> Yours sincerely, Wojciech Waleszczyk
                 </div>
               </div>

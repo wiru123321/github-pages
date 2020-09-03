@@ -117,11 +117,6 @@ const cv = () => {
                     alt="cv photo"
                   />
                   <div className="cv-content">CSS 3</div>
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
                 </div>
               </div>
             </div>
@@ -136,11 +131,6 @@ const cv = () => {
                     alt="cv photo"
                   />
                   <div className="cv-content">HTML 5</div>
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
                 </div>
               </div>
             </div>
@@ -155,11 +145,6 @@ const cv = () => {
                     alt="cv photo"
                   />
                   <div className="cv-content">Java Script</div>
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
                 </div>
               </div>
             </div>
@@ -174,11 +159,6 @@ const cv = () => {
                     alt="cv photo"
                   />
                   <div className="cv-content">React</div>
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
                 </div>
               </div>
             </div>
@@ -193,11 +173,6 @@ const cv = () => {
                     alt="cv photo"
                   />
                   <div className="cv-content">Bootstrap 4</div>
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
                 </div>
               </div>
             </div>
@@ -212,11 +187,6 @@ const cv = () => {
                     alt="cv photo"
                   />
                   <div className="cv-content">GIT</div>
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faCheckCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
-                  <FontAwesomeIcon icon={faTimesCircle} />
                 </div>
               </div>
             </div>
